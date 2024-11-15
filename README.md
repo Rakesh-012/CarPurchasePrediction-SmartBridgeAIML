@@ -59,8 +59,10 @@ The app will start running on `http://127.0.0.1:5000/` by default. Open the URL 
 ## Screenshots
 
 ### Home Page
-![Home Page](https://github.com/user-attachments/assets/e4436d19-44c4-430d-90f8-1f6103755ebd)
-![Home Page](https://github.com/user-attachments/assets/a4f8c16d-c118-4540-93cb-6868f031a131)
+![Home Page](https://github.com/user-attachments/assets/7cc19f3c-8936-429c-a2ca-85910ff7893f)
+![Home Page](https://github.com/user-attachments/assets/44804cce-4664-4580-a4dc-bddf95089b85)
+
 
 ### Result Page
-![Result Page](https://github.com/user-attachments/assets/65df6f04-e24e-4608-85fa-99604cc8f75d)
+![Result Page](https://github.com/user-attachments/assets/e1337b28-def4-42cf-a4b0-46beb4b45d4f)
+
